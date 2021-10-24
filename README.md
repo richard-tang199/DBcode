@@ -1,6 +1,6 @@
 course-information
 ===========
-
+增加中文版说明  
 GitHub Report for http://dsg.csail.mit.edu/6.830/
 
 We will be using git, a source code control tool, to distribute labs in 6.814/6.830. This will allow you to
