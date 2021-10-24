@@ -1,7 +1,7 @@
 course-information
 ===========
 
-GitHub Repo for http://dsg.csail.mit.edu/6.830/
+GitHub Report for http://dsg.csail.mit.edu/6.830/
 
 We will be using git, a source code control tool, to distribute labs in 6.814/6.830. This will allow you to
 incrementally download the code for the labs, and for us to push any hot fixes that might be necessary.
