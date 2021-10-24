@@ -1,4 +1,4 @@
-course-info
+course-information
 ===========
 
 GitHub Repo for http://dsg.csail.mit.edu/6.830/
@@ -8,7 +8,7 @@ incrementally download the code for the labs, and for us to push any hot fixes t
 
 You will also be able to use git to commit and backup your progress on the labs as you go. Course git repositories will
 be hosted as a repository in GitHub. GitHub is a website that hosts runs git servers for thousands of open source
-projects. In our case, your code will be in a private repository that is visible only to you and course staff.`
+projects. In my case, your code will be in a private repository that is visible only to you and course staff.`
 
 This document describes what you need to do to get started with git, and also download and upload 6.830/6.814 labs via
 GitHub.
